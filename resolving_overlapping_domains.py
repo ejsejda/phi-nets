@@ -1,5 +1,5 @@
 #************  THE PROGRAM TO RESOLVE OVERLAPPING BETWEEN DOMAINS IN PROTEINS  *************
-#           Author: Elzbieta Janowska-Sedja, 16/06/2019
+#           Author: Elzbieta Janowska-Sejda, 16/06/2019
 #		        As input file hmmer file with domain signatures is used. 
 #		        The format of the file is described below    
 #*******************************************************************************************   
