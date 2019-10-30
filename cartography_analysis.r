@@ -1,5 +1,5 @@
 #R script for running cartography analysis on the given network file. Here for F. graminearum network file.
-#it can be adopted for a given connected component of the network given appropriate connected component network (edge) file is available
+#It can be adopted for a given connected component of the network given appropriate connected component network (edge) file is available
 
 install.packages("rnetcarto")
 library("rnetcarto")
